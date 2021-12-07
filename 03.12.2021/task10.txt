@@ -1,0 +1,2 @@
+Check https://www.google.com/ IP via terminal.
+sanya@sanya:~/Desktop$ links google.com

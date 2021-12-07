@@ -1,0 +1,1 @@
+Open File manager from terminal(use nautilus command) so that you can continue to use that terminal.

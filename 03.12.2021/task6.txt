@@ -1,0 +1,1 @@
+Provide 4 ways to power off the computer at X+1 min. (E.g if x=14:00 then computer should be off at 14:01).

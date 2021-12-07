@@ -1,0 +1,5 @@
+Sort Linux Processes by Memory and CPU Usage.
+
+sanya@sanya:~$ ps -eo pid,ppid,%mem,%cpu,comm --sort=-%mem | head
+=====
+sanya@sanya:~$   ps aux --sort -%cpu

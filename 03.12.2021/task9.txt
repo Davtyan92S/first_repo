@@ -1,0 +1,2 @@
+Using cron command create a new file in Desktop at 14:00 every day.
+00 14 * * * touch ~/Desktop/croneFile.txt

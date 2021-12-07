@@ -1,0 +1,2 @@
+Find a way to open google.com web site in terminal(via headless browser).
+sanya@sanya:~/Desktop$ links google.com

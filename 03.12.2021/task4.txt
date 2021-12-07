@@ -1,0 +1,9 @@
+Have 2 different files in different paths with I love Dwin content.
+ Write a command which will print all file names which contain's Dwin word.
+sanya@sanya:~/Desktop$ grep dwin  ./*
+grep: ./boom: Is a directory
+grep: ./example: Is a directory
+grep: ./exercises: Is a directory
+grep: ./facebook: Is a directory
+./txt1.txt:i love you dwin
+./txt2.txt:i love you dwin and i love to programing

@@ -1,0 +1,2 @@
+Check your IP from terminal.
+sanya@sanya:~$ ip r l

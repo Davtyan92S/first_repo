@@ -1,0 +1,2 @@
+Write commands which will put fb.com web site hosting info in a new fb.txt 
+sanya@sanya:~/Desktop/facebook$ dig facebook.com &> fb.txt
