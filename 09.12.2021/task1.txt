@@ -1,0 +1,6 @@
+Task 1: Create a script that will take a filename as its first argument and two digits as its second argument.
+Will check if the file exists or not, if not exists print error and return from the script.
+Will create folders starting 0 to 9 and in each folder should create folders named with 0 to 9.
+Will move provided file in provided number names folders.
+e.g. ./task1.sh file.txt 45
+file.txt should move into ./4/5/file.txt folder
