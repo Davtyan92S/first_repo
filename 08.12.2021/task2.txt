@@ -1,14 +1,1 @@
-Find and print all files in directory starting with given name, then create folder and copy matched files in it and create a zip
-
-
-
-#!/bin/bash
-touch file1 file2 file3 file4 abcd abcf abch abco;
-find | grep '^\./file' &>>filo.txt;
-find | grep '^\./abc' &>>filo1.txt;
-
-cp filo.txt /home/sanya/Desktop/files_bash/files;
-cp filo1.txt /home/sanya/Desktop/files_bash/abc;
-tar cf archiv.tar files;
-tar cf archiv1.tar abc;
-
+iFind and print all files in directory starting with given name, then create folder and copy matched files in it and create a zip

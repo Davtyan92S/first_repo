@@ -1,0 +1,2 @@
+Task 3: Create a script which will take a folder path as its first argument. find all files in the provided directory wich has a .txt extensions and change the .txt extension with .csv. e.g if folder named with dir contains file1.txt, file2.txt, file3.pdf files  after running ./task3.sh dir , in the dir  directory should be file1.csv, file2.csv, file3.pdf   files.
+
