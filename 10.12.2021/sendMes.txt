@@ -1,0 +1,7 @@
+Task 1: Create a script that will take a massage as its first argument and receiver name as second.
+Will create a "sms" file in desktop if not exists (both in our and in receiver side)
+ 2. Will append to files our message like "{sender name}: {message}" (both in our and in receiver side)
+ 3. use /etc/hosts to ssh using username instead of IP address
+ 4. For test use 2 terminal. One for sending second for viewing messages in live
+ 5. If there is no connection via ssh script should continue working and writing messages to our file. (edited) 
+
